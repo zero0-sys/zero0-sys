@@ -10,7 +10,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=120&lines=root%40kali%3A~%23+neofetch;OS%3A+Kali+GNU%2FLinux+Rolling+x86_64;Kernel%3A+Linux+6.6.9-amd64;root%40kali%3A~%23+msfconsole+-q;msf6+%3E+use+exploit%2Fmulti%2Fhandler" alt="Kali Linux OS Animation" />
 </p>
 
-<
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Binary Matrix Rain" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/zero0-sys/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=zero0-sys&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="stats" /></picture></a>
+  <a href="https://github.com/zero0-sys/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=zero0-sys&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="langs" /></picture></a>
+</p>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/zero0-sys"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF00" alt="Twitter"/></a>
