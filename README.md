@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+zero0-sys;A+Passionate+Software+Engineer;Tech+Enthusiast+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+zero0-sys;Cybersecurity+Enthusiast+%26+Ethical+Hacker;Daily+OS:+Kali+Linux+%26+Arch+Linux;echo+%22I+am+a+Hacker!%22" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/matrix.gif" width="400" alt="Matrix Animation" />
 </p>
 
 <p align="center">
@@ -112,6 +116,7 @@
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+      <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kali-linux&logoColor=white"></a>
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
       <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
