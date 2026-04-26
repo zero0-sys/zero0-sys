@@ -7,15 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/matrix.gif" width="400" alt="Matrix Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=120&lines=root%40kali%3A~%23+neofetch;OS%3A+Kali+GNU%2FLinux+Rolling+x86_64;Kernel%3A+Linux+6.6.9-amd64;root%40kali%3A~%23+msfconsole+-q;msf6+%3E+use+exploit%2Fmulti%2Fhandler" alt="Kali Linux OS Animation" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/zero0-sys/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=zero0-sys&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="stats" /></picture></a>
-  <a href="https://github.com/zero0-sys/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=zero0-sys&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="langs" /></picture></a>
-</p>
-
-
+<
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/zero0-sys"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF00" alt="Twitter"/></a>
@@ -269,6 +264,8 @@
 
 <br><br>
 
-<h2 align="center"><code>#wearenotalone</code></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=3000&color=00FF00&center=true&vCenter=true&width=500&height=80&lines=%23WEARENOTALONE" alt="#WEARENOTALONE Animation" />
+</p>
 
 
