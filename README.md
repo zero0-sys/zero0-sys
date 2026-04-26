@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.tenor.com/tE2_3E8XQkYAAAAd/anonymous-hacker.gif" width="150" alt="Hacker Mask Animation" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+zero0-sys;Cybersecurity+Enthusiast+%26+Ethical+Hacker;Daily+OS:+Kali+Linux+%26+Arch+Linux;echo+%22I+am+a+Hacker!%22" alt="Typing SVG" />
@@ -12,11 +10,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Binary Matrix Rain" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/zero0-sys/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=zero0-sys&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="stats" /></picture></a>
-  <a href="https://github.com/zero0-sys/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=zero0-sys&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="langs" /></picture></a>
 </p>
 
 <!-- Social icons section -->
