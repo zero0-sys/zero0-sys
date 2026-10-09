@@ -12,20 +12,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Binary Matrix Rain" />
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/zero0-sys"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF00" alt="Twitter"/></a>
-  &#8287;&#8287;
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF00" alt="Discord"/></a>
-  &#8287;&#8287;
-  <a href="https://dev.to/zero0-sys"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=00FF00" alt="Dev.to"/></a>
-  &#8287;&#8287;
-  <a href="https://ko-fi.com/zero0-sys"><img src="https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=00FF00" alt="Ko-fi"/></a>
-  &#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img src="https://img.shields.io/badge/Free_Stuff-000000?style=for-the-badge&color=00FF00" alt="Free Stuff"/></a>
-</p>
 
-<br/>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/zero0-sys/custom-icon-badges -->
